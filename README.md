@@ -12,6 +12,25 @@
 - **Programming Language:** Python, VBA
 - **Libraries:** Openpyxl
 
+## 📖 How to Use  
+1. Open the **GL Insights** executable file.  
+2. Select a **general ledger (GL) Excel file** in **QuickBooks format**.  
+
+### 📂 GL File Format Requirements  
+- Must contain **only one tab**, named **"GL"**.  
+- Must have the following **columns (not below row 10)**:  
+  - **Date** (formatted as `YYYY-MM-DD`, type: "Date")  
+  - **Num**, **Split**, **Debit**, **Credit**, **Balance**  
+- **Column B** must define accounts, numbered properly:  
+  - **1xxx / 1xxxx** → Assets  
+  - **2xxx / 2xxxx** → Liabilities  
+  - **3xxx / 3xxxx** → Equity  
+  - **4xxx / 4xxxx** → Revenue  
+  - **5xxx - 9xxx / 5xxxx - 9xxxx** → Expenses / COGS  
+- Ensure **"gl-insights-trends.xlsm"** is in the same folder for trend analysis.  
+
+GL Insights will then analyze the data, detect anomalies, and provide insights automatically. 
+
 ## 🚀 Lessons Learned  
 Developing **GL Insights** taught me how to automate financial analysis by detecting:  
 - **Unusual expenses & high-variance entries**  

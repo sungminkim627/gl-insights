@@ -22,8 +22,8 @@ This project reinforced my understanding of **accounting best practices, error d
 
 ## 🖼️ Screenshots  
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/1c115c1e-a018-4268-813a-6f9d8b01a65a" width="45%" />
-  <img src="https://github.com/user-attachments/assets/8e6e47ba-6fae-4106-b0be-b4f73997b1a4" height="70%"/>
+  <img src="https://github.com/user-attachments/assets/1c115c1e-a018-4268-813a-6f9d8b01a65a" width="50%" />
+  <img src="https://github.com/user-attachments/assets/8e6e47ba-6fae-4106-b0be-b4f73997b1a4"/>
 </p>
 
 ---

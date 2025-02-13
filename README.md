@@ -21,6 +21,8 @@ Developing **GL Insights** taught me how to automate financial analysis by detec
 This project reinforced my understanding of **accounting best practices, error detection, and fraud prevention**, while improving my ability to **analyze and automate financial workflows**.  
 
 ## 🖼️ Screenshots  
-
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/1c115c1e-a018-4268-813a-6f9d8b01a65a" width="45%" />
+</p>
 
 ---
